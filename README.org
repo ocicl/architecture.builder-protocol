@@ -2,8 +2,8 @@
 
 Protocol for flexible construction and traversal of results (e.g. ASTs in case of parsers)
 
-|---------+--------------------------------------------------------------------------------------------|
-| source  | git:https://github.com/scymtym/architecture.builder-protocol.git                           |
-| commit  | 9ce9110                                                                                    |
+|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/scymtym/architecture.builder-protocol.git                                                                                                                              |
+| commit  | 07ff344                                                                                                                                                                                       |
 | systems | architecture.builder-protocol architecture.builder-protocol.json architecture.builder-protocol.print-tree architecture.builder-protocol.universal-builder architecture.builder-protocol.xpath |
-|---------+--------------------------------------------------------------------------------------------|
+|---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
